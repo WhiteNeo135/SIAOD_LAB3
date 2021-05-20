@@ -1,0 +1,3 @@
+/home/andrey/Projects/c++/3_Lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrey/Projects/c++/3_Lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrey/Projects/c++/3_Lab/cmake-build-debug/CMakeFiles/3_Lab.dir

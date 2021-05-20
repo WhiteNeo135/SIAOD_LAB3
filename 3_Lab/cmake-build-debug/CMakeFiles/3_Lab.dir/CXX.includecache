@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrey/Projects/c++/3_Lab/FindPath.cpp
+
+/home/andrey/Projects/c++/3_Lab/SearchString.cpp
+string
+-
+string.h
+-
+
+/home/andrey/Projects/c++/3_Lab/TestingPath.cpp
+iostream
+-
+set
+-
+map
+-
+string
+-
+vector
+-
+
+/home/andrey/Projects/c++/3_Lab/main.cpp
+bits/stdc++.h
+-
+SearchString.cpp
+/home/andrey/Projects/c++/3_Lab/SearchString.cpp
+FindPath.cpp
+/home/andrey/Projects/c++/3_Lab/FindPath.cpp
+TestingPath.cpp
+/home/andrey/Projects/c++/3_Lab/TestingPath.cpp
+

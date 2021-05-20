@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/3_Lab.dir/main.cpp.o CMakeFiles/3_Lab.dir/FindPath.cpp.o -o 3_Lab 
