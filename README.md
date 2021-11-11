@@ -1,2 +1,6 @@
-В данной лабораторной работе я реализовал метотды поиска подстроки в строке, а так же поиск одного из возможных решений в "пятнашках"
-Пирогов Андрей Антонович(БВТ1902)
+Pirogov Andrey (BVT1902)
+
+Lab3 - Substring Searching Algorithms:
+
+- Knuth-Morris-Pratt substring searching algorithm;
+- Boyer–Moore–Horspool substring searching algorithm.
